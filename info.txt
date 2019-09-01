@@ -1,0 +1,20 @@
+
+So this is the php code to make it work across multiple pages.
+Link: https://www.youtube.com/watch?v=shgr0ji71qI
+
+1. create an 'assets' folder.
+2. create a 'php' folder inside assets
+3. create a navbar.html file inside the php folder
+4. cut the navbar code into the file called navbar.html
+	*I just need the tags, not the full head section or anything else
+5. in its place type the following:
+	<?php $IPATH = $_SERVER["DOCUMENT_ROOT"]."/assets/php"; include($IPATH."navbar.html"); ?>
+	*first part creates a variable to the php folder location
+	*second part puts the navbar code in the html page
+
+6. If you need to add in a second chucnk of code then just use the second part again, as follows:
+	<?php include($IPATH."footer.html"); ?>
+
+
+how to link i think:
+http://janajarecki.com/blog/2018/06/29/make-sublimetext-3-talk-to-github/
