@@ -3,8 +3,8 @@
 <head>
 	<title>Home - Welcome</title>
 
-	<link rel="stylesheet" href="../Navigation/navbar.css" type="text/css"/>
-  <link rel="stylesheet" href="home.css" type="text/css"/>
+	<link rel="stylesheet" href="../../Navigation/navbar.css" type="text/css"/>
+  <link rel="stylesheet" href="./home.css" type="text/css"/>
 
 	<!-- JQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -12,7 +12,7 @@
     <script>
       $(document).ready(function(){          
           $('.logo').on('click', function(){
-              $(location).attr('href', 'home.php');
+              $(location).attr('href', './home.php');
           }); 
       });
     </script>
@@ -28,7 +28,7 @@
 
 <body>
 	<!-- this php will add the navbar -->
-	<?php include("../Navigation/navigation.html"); ?>
+	<?php include("../../Navigation/navigation.html"); ?>
 
 	<div id="introduction">
 
