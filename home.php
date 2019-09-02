@@ -6,28 +6,30 @@
 	<link rel="stylesheet" href="navbar.css" type="text/css"/>
 
 	<!-- JQuery -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   
-  <script>
+    <script>
       $(document).ready(function(){          
           $('.logo').on('click', function(){
               $(location).attr('href', 'home.html');
           }); 
       });
-  </script>
+    </script>
 
-  <!-- Add icon library -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  <style>
-  @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
-  </style>
-
+    <style>
+    @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
+    </style>
 </head>
 
+
 <body>
-	
-  <div id="introduction">
+	<!-- this php will add the navbar -->
+	<?php include("navigation.html"); ?>
+
+	<div id="introduction">
 
     <div class="text-box">
       <h1>Hi, Welcome!</h1>
@@ -43,5 +45,3 @@
 
 </body>
 </html>
-
-
