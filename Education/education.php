@@ -32,13 +32,23 @@
 
 	<div id="introduction">
 
-    <div class="text-box">
-      <h1>This is the education section!</h1>
+	    <div class="text-box">
+	      <h1>This is Education!</h1>
+	      <br>
 
-      
-    </div>
+	      <p>Here are my schools</p> 
+<br>
+<br>
+	      <p>Bishop Murphy</p>
+<br>
+<br><br><br><br><br><br><br><br>
+	      <p>St. Colmans</p>
+<br><br><br><br><br><br>
+
+	      <p>University College Cork</p>
+	    </div>
      
-  </div>
+    </div>
 
 </body>
 </html>
