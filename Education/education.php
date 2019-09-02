@@ -3,7 +3,7 @@
 <head>
 	<title>Education</title>
 
-	<link rel="stylesheet" href="../../Navigation/navbar.css" type="text/css"/>
+	<link rel="stylesheet" href="../Navigation/navbar.css" type="text/css"/>
   	<link rel="stylesheet" href="./education.css" type="text/css"/>
 
 	<!-- JQuery -->
@@ -28,7 +28,7 @@
 
 <body>
 	<!-- this php will add the navbar -->
-	<?php include("../../Navigation/navigation.html"); ?>
+	<?php include("../Navigation/navigation.html"); ?>
 
 	<div id="introduction">
 
