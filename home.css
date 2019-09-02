@@ -1,5 +1,5 @@
 #introduction{
-    position: fixed;
+    position: absolute;
     width: calc(100% - 300px);
     height: calc(100% - 80px);
     left: 300px;

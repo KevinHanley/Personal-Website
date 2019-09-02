@@ -7,6 +7,11 @@ body{
     overflow-x: hidden
 }
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
 header{
     background: #FFF; /* was #333 */
     position: fixed;
@@ -75,7 +80,19 @@ nav a:hover::after{
     width: 100%;
 }
 
+@media screen and (max-width:800px) {
+  /* CSS for screens that are 320 pixels or less will be put in this section */
+  #personal-connections{
+    visibility: hidden;
+  }
+}
 
+@media screen and (min-width:800px) {
+  /* CSS for screens that are 320 pixels or less will be put in this section */
+  #personal-connections{
+    visibility: visible;
+  }
+}
 
 
 
