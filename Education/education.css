@@ -11,10 +11,20 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 70%;
+    width: 65%;
     text-align: center;
+}
+
+.colmans-1 img{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 100px;
 }
 
 .colmans-2, .colmans-3, .colmans-4{
     position: relative;
+    width: 65%;
 }
