@@ -23,7 +23,6 @@
 }
 
 .colmans-2, .colmans-3, .colmans-4{
-    position: absolute;
     width: 65%;
     left: 50%;
     transform: translate(-50%, 0px);
