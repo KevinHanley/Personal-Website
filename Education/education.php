@@ -164,6 +164,9 @@
       <h3>Awards</h3>
 
       <p>UCC Scholarship Award from Academic Results</p>
+
+      <br>
+      <br>
     </div>
 
 

@@ -10,22 +10,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- JQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  
-    <script>
-      $(document).ready(function(){          
-          $('.logo').on('click', function(){
-              $(location).attr('href', './home.php');
-          }); 
-      });
-    </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-    <!-- Add icon library -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script>
+    $(document).ready(function(){          
+        $('.logo').on('click', function(){
+            $(location).attr('href', './home.php');
+        }); 
+    });
+  </script>
 
-    <style>
-    @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
-    </style>
+  <!-- Add icon library -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <style>
+  @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
+  </style>
 </head>
 
 
@@ -38,9 +38,12 @@
     <div class="intro-1">
       <h1>Hi, Welcome!</h1>
 
-      <p>Welcome to my person website. Here you will get to know a bit about me (hopefully).</p> 
+      <p>Welcome to my personal website. Here you'll get to know a bit about me (hopefully).</p> 
 
       <p>I am currently a Business Information Systems (BSc) undergradute student in University College Cork, Ireland.</p>
+
+      <br>
+      <br>
     </div>
 
 
