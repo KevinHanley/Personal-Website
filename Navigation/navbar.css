@@ -205,43 +205,43 @@ nav a:hover::after{
 
 /* Order is top,left-side,front */
 
-#personal-connections ul li:hover:nth-child(2) a{
+#personal-connections ul li:hover:nth-child(4) a{
   background: #3b5998;
 }
-#personal-connections ul li:hover:nth-child(2) a:before{
+#personal-connections ul li:hover:nth-child(4) a:before{
   background: #365492;
 }
-#personal-connections ul li:hover:nth-child(2) a:after{
+#personal-connections ul li:hover:nth-child(4) a:after{
   background: #4a69ad;
 }
 
-#personal-connections ul li:hover:nth-child(3) a{
+#personal-connections ul li:hover:nth-child(1) a{
   background: #00aced;
 }
-#personal-connections ul li:hover:nth-child(3) a:before{
+#personal-connections ul li:hover:nth-child(1) a:before{
   background: #097aa5;
 }
-#personal-connections ul li:hover:nth-child(3) a:after{
+#personal-connections ul li:hover:nth-child(1) a:after{
   background: #53b9e0;
 }
 
-#personal-connections ul li:hover:nth-child(4) a{
+#personal-connections ul li:hover:nth-child(2) a{
   background: #6e5494; 
 }
-#personal-connections ul li:hover:nth-child(4) a:before{
+#personal-connections ul li:hover:nth-child(2) a:before{
   background: #4B308C;
 }
-#personal-connections ul li:hover:nth-child(4) a:after{
+#personal-connections ul li:hover:nth-child(2) a:after{
   background: #8369C1;
 }
 
-#personal-connections ul li:hover:nth-child(1) a{
+#personal-connections ul li:hover:nth-child(3) a{
   background: #e4405f;
 }
-#personal-connections ul li:hover:nth-child(1) a:before{
+#personal-connections ul li:hover:nth-child(3) a:before{
   background: #d81c3f;
 }
-#personal-connections ul li:hover:nth-child(1) a:after{
+#personal-connections ul li:hover:nth-child(3) a:after{
   background: #e46880;
 }
 

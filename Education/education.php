@@ -51,6 +51,7 @@
       <h3>Summary</h3>
 
       <p>Between 2011-2017 I attended St. Colman's College secondary school in Fermoy, Co. Cork. Colman's is a medium sized, all-boys school with roughly 450 students and 50 staff members. Opened in 1858, the school has a rich history academically, religiously and in terms of sport.</p>
+      <br>
     </div>
 
 
@@ -65,6 +66,7 @@
         <li>Leaving Certificate Chemistry Award</li>
         <li>AIB Build-a-Bank Manager</li>
       </ul>
+      <br>
     </div>
 
 
@@ -126,6 +128,7 @@
 
       <p>I began attending UCC in September 2017, just after my Leaving Certificate, and started an undergraduate course in Business Information Systems. 
       UCC itself was founded in 1845 as Queen's College, Cork. Later it was renamed on several occasions and now is offically called University College Cork – National University of Ireland, Cork.</p>
+      <br>
     </div>
 
 
@@ -133,9 +136,10 @@
     <div class="ucc-3">
       <h3>My Course</h3>
 
-      <p>Business Information Systems (BIS)</p>
+      <p>Business Information Systems (BSc) - BIS</p>
 
-      <p>I do BIS</p>
+      <p>BIS is a full-time, four year undegraduate degree program run by the Cork University Business School (CUBS). It specialises in the key skills that are essential to the success of professionals in modern information technology and information systems.</p>
+      <br>
     </div>
 
 
@@ -143,7 +147,15 @@
     <div class="ucc-4">
       <h3>Results</h3>
 
-      <p>Here are results</p>
+      <p><b>First Year:</b> 1st Class Honours</p>
+      <p><b>Areas Studied:</b>Object-Orientated Programming, Databases, Web Development,Accounting and Economics.</p>
+      
+      <br>
+
+      <p><b>Second Year:</b> 1st Class Honours</p>
+      <p><b>Areas Studied:</b>Database Theory and SQL, Java, Systems Analysis, Business Modelling, Accounting and Economics.</p>
+      
+      <br>
     </div>
 
 
@@ -151,7 +163,7 @@
     <div class="ucc-5">
       <h3>Awards</h3>
 
-      <p>Here are awards</p>
+      <p>UCC Scholarship Award from Academic Results</p>
     </div>
 
 
