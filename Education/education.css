@@ -18,11 +18,13 @@
 
 .colmans-1 img{
     position: relative;
-    width: 200px;
-    height: 100px;
+    width: 400px;
+    height: 200px;
 }
 
 .colmans-2, .colmans-3, .colmans-4{
+    position: relative;
+    margin-top: 10px;
     width: 65%;
     left: 50%;
     transform: translate(-50%, 0px);
