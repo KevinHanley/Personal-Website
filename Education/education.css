@@ -15,6 +15,14 @@
     transform: translate(-50%, 0px);
 }
 
+.colmans-1{
+    background-image: url(/Images/colmans.jpg);
+    color: #FFF;
+    height: 400px;
+}
+
+
+/* both of these will be gone */
 .colmans-1, .ucc-1{
     text-align: center;
 }

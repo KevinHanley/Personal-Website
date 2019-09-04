@@ -61,6 +61,8 @@
       suitable for. Through my work and my time in
       University, I have developed skills and knowledge
       which I feel would be of benefit to your company.</p> 
+
+      <br>
     </div>
 
 
