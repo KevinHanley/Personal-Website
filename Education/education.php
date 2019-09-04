@@ -113,8 +113,6 @@
       <h1>University College Cork</h1>
 
       <h3>2017-Present</h3>
-
-      <img src="/Images/ucc.jpg">
     </div>
 
 

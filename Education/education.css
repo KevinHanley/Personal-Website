@@ -9,26 +9,33 @@
 
 .colmans-1, .colmans-2, .colmans-3, .colmans-4, .ucc-1, .ucc-2, .ucc-3, .ucc-4, .ucc-5{
     position: relative;
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     width: 65%;
     left: 50%;
     transform: translate(-50%, 0px);
 }
 
+/* These divs have images so require extra styling */
 .colmans-1{
     background-image: url(/Images/colmans.jpg);
+}
+.ucc-1{
+    background-image: url(/Images/ucc.jpg);
+}
+
+.colmans-1, .ucc-1{
+    background-position: center;
+    background-size: cover;
     color: #FFF;
     height: 400px;
 }
-
-
 /* both of these will be gone */
-.colmans-1, .ucc-1{
+.colmans-1{
     text-align: center;
 }
 
-.colmans-1 img, .ucc-1 img{
+.ucc-1 h1, .ucc-1 h3{
     position: relative;
-    width: 400px;
-    height: 200px;
+    text-align: right;
 }
