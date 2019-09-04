@@ -36,7 +36,7 @@
 	<div id="content">
 
 
-<!-- The first section is all content for St Colmans. -->
+  <!-- The first section is all content for St Colmans. -->
     <div class="colmans-1">
       <h1>St. Colmans College, Fermoy</h1>
 
@@ -102,11 +102,57 @@
               <td><b>Total Points:</b></td><td><b>509</b></td>
           </tr>
       </table>
+
+      <br>
+      <br>
+      <br>
     </div>
      
 
-<!-- This section is all UCC content -->
 
+  <!-- This section is all UCC content -->
+    <div class="ucc-1">
+      <h1>University College Cork</h1>
+
+      <h3>2017-Present</h3>
+
+      <img src="/Images/ucc.jpg">
+    </div>
+
+
+
+    <div class="ucc-2">
+      <h3>Summary</h3>
+
+      <p>I began attending UCC in September 2017, just after my Leaving Certificate, and started an undergraduate course in Business Information Systems. 
+      UCC itself was founded in 1845 as Queen's College, Cork. Later it was renamed on several occasions and now is offically called University College Cork – National University of Ireland, Cork.</p>
+    </div>
+
+
+
+    <div class="ucc-3">
+      <h3>My Course</h3>
+
+      <p>Business Information Systems (BIS)</p>
+
+      <p>I do BIS</p>
+    </div>
+
+
+
+    <div class="ucc-4">
+      <h3>Results</h3>
+
+      <p>Here are results</p>
+    </div>
+
+
+
+    <div class="ucc-5">
+      <h3>Awards</h3>
+
+      <p>Here are awards</p>
+    </div>
 
 
   </div> <!-- End of content class -->

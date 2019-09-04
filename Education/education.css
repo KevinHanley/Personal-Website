@@ -7,7 +7,7 @@
     z-index: -1;
 }
 
-.colmans-1, .colmans-2, .colmans-3, .colmans-4{
+.colmans-1, .colmans-2, .colmans-3, .colmans-4, .ucc-1, .ucc-2, .ucc-3, .ucc-4, .ucc-5{
     position: relative;
     margin-top: 10px;
     width: 65%;
@@ -15,11 +15,11 @@
     transform: translate(-50%, 0px);
 }
 
-.colmans-1{
+.colmans-1, .ucc-1{
     text-align: center;
 }
 
-.colmans-1 img{
+.colmans-1 img, .ucc-1 img{
     position: relative;
     width: 400px;
     height: 200px;
