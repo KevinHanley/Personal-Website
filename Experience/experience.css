@@ -1,0 +1,39 @@
+#content{
+    position: absolute;
+    width: calc(100% - 300px);
+    left: 300px;
+    top: 80px;
+    background-color: #FFF;
+    z-index: -1;
+}
+
+#content div{
+	position: relative;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 65%;
+    left: 50%;
+    transform: translate(-50%, 0px);
+}
+
+.toss-1{
+	background-image: url(/Images/toss.jpg);
+}
+.cd-1{
+	background-image: url(/Images/CoderDojo.jpg);
+}
+.camp-1{
+	background-image: url(/Images/campsloane.jpg);
+}
+
+.toss-1, .cd-1, .camp-1{
+    background-position: center;
+    background-size: cover;
+    color: #FFF;
+    height: 400px;
+}
+
+.toss-1 h1, .toss-1 h3, .cd-1 h1, .cd-1 h3, .camp-1 h1, .camp-1 h3{
+    position: relative;
+    text-align: right;
+}
