@@ -42,7 +42,7 @@
 
       <h3>2011-2017</h3>
 
-      <img src="/Images/testing.jpg">
+      <img src="/Images/colmans.jpg">
     </div>
 
 
