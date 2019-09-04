@@ -9,8 +9,8 @@
 
 .colmans-1, .colmans-2, .colmans-3, .colmans-4, .ucc-1, .ucc-2, .ucc-3, .ucc-4, .ucc-5{
     position: relative;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 35px;
+    margin-bottom: 35px;
     width: 65%;
     left: 50%;
     transform: translate(-50%, 0px);
@@ -30,12 +30,8 @@
     color: #FFF;
     height: 400px;
 }
-/* both of these will be gone */
-.colmans-1{
-    text-align: center;
-}
 
-.ucc-1 h1, .ucc-1 h3{
+.colmans-1 h1, .colmans-1 h3, .ucc-1 h1, .ucc-1 h3{
     position: relative;
     text-align: right;
 }
