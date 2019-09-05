@@ -7,13 +7,14 @@
     z-index: -1;
 }
 
-.colmans-1, .colmans-2, .colmans-3, .colmans-4, .ucc-1, .ucc-2, .ucc-3, .ucc-4, .ucc-5{
+#content div{
     position: relative;
     margin-top: 35px;
     margin-bottom: 35px;
     width: 65%;
     left: 50%;
     transform: translate(-50%, 0px);
+    border-bottom: 2px solid;
 }
 
 /* These divs have images so require extra styling */
@@ -27,7 +28,7 @@
 .colmans-1, .ucc-1{
     background-position: center;
     background-size: cover;
-    color: #FFF;
+    color: #000;
     height: 400px;
 }
 

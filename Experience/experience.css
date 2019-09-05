@@ -14,6 +14,7 @@
     width: 65%;
     left: 50%;
     transform: translate(-50%, 0px);
+    border-bottom: 2px solid;
 }
 
 .toss-1{
@@ -23,17 +24,21 @@
 	background-image: url(/Images/CoderDojo.jpg);
 }
 .camp-1{
-	background-image: url(/Images/campsloane.jpg);
+	background-image: url(/Images/camp.jpg);
 }
 
 .toss-1, .cd-1, .camp-1{
     background-position: center;
     background-size: cover;
-    color: #FFF;
+    color: #000;
     height: 400px;
+    max-width: 100%;
 }
 
 .toss-1 h1, .toss-1 h3, .cd-1 h1, .cd-1 h3, .camp-1 h1, .camp-1 h3{
     position: relative;
     text-align: right;
 }
+
+
+

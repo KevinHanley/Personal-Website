@@ -64,7 +64,7 @@
 
 	      <p><b>Role:</b> Coding Instructor</p>
 
-	      <p>During my time in Toss Bryans I worked in several different departments, ranging from DIY to Domestic Appliances to Tills. My core tasks involved; helping customers with in-store purchases, dealing with customer complaints, ordering and maintaing stock levels, handling money and training new part-time staff.</p>
+	      <p>The CoderDojo program was run in UCC over a number of weeks in early 2019. Its core goal is to teach chrildren the fundamental principles of computer coding, in a fun and interactive way. A number of students, including myself, helped facilitate this learning process by engaging</p>
 	    </div>
 
 
