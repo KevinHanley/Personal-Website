@@ -36,3 +36,7 @@
     position: relative;
     text-align: right;
 }
+
+.colmans-4, .ucc-5{
+    border-bottom: 2px solid;
+}

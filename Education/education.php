@@ -140,10 +140,10 @@
       <h3>Results</h3>
 
       <p><b>First Year:</b> 1st Class Honours</p>
-      <p><b>Areas Studied:</b>Object-Orientated Programming, Databases, Web Development,Accounting and Economics.</p>
+      <p><b>Areas Studied:</b> Object-Orientated Programming, Databases, Web Development,Accounting and Economics.</p>
 
       <p><b>Second Year:</b> 1st Class Honours</p>
-      <p><b>Areas Studied:</b>Database Theory and SQL, Java, Systems Analysis, Business Modelling, Accounting and Economics.</p>
+      <p><b>Areas Studied:</b> Database Theory and SQL, Java, Systems Analysis, Business Modelling, Accounting and Economics.</p>
     </div>
 
 
