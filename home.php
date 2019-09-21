@@ -20,9 +20,11 @@
 
         $(document).scroll(function() {
           if($(window).scrollTop() > 50){
+            alert("hello");
             $("header").css("background-color" : "#FFF", "color" : "#000");
 
           }else if($(window).scrollTop() < 50){
+            alert("im back");
             $("header").css("background-color" : "transparent", "color" : "#FFF");
           }
         });
