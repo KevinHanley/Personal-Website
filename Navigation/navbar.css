@@ -287,6 +287,12 @@ nav a:hover::after{
 }
 
 
+@media screen and (max-width:800px) {
+  /* CSS for screens that are 800 pixels or less will be put in this section */
+  nav{
+    display: none;
+  }
+}
 
 
 

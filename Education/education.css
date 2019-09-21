@@ -58,3 +58,20 @@
     position: relative;
     text-align: right;
 }
+
+@media screen and (max-width:800px) {
+  /* CSS for screens that are 800 pixels or less will be put in this section */
+  #content{
+    position: absolute;
+    width: 90%;
+    left: 50%;
+    top: calc(100% + 80px);
+    transform: translate(-50%, 0px);
+    background-color: #FFF;
+    z-index: -1
+    }
+}
+
+
+
+

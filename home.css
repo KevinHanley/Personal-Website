@@ -38,7 +38,7 @@
   /* CSS for screens that are 320 pixels or less will be put in this section */
   #introduction{
     position: absolute;
-    width: 80%;
+    width: 90%;
     left: 50%;
     top: calc(100% + 80px);
     transform: translate(-50%, 0px);
