@@ -19,6 +19,9 @@
       });
     </script>
 
+    <!-- Google icons -->
+ 	 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
     <!-- Add icon library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -31,6 +34,12 @@
 <body>
 	<!-- this php will add the navbar -->
 	<?php include("../Navigation/navigation.html"); ?>
+
+	<div id="landing">
+   		<h1>My Experience</h1>
+    
+   	 	<i class="material-icons">arrow_downward</i>
+ 	</div>
 
 	<!-- This is the content displayed on the page -->
 	<div id="content">

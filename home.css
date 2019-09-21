@@ -30,6 +30,6 @@
     background-image: url(/Images/RI.jpg);
 }
 
-#landing i, h1{
+#landing i, #landing h1{
     color: #FFF;
 }

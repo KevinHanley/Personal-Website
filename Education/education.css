@@ -2,7 +2,7 @@
     background-image: url(/Images/pencils.jpg);
 }
 
-#landing i, h1{
+#landing i, #landing h1{
     color: #FFF;
 }
 
