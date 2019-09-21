@@ -18,7 +18,7 @@
             $(location).attr('href', './home.php');
         }); 
 
-        $(document).scroll(function() {
+        $(document).on('scroll', function() {
           if($(window).scrollTop() > 50){
             alert("hello");
             $("header").css("background-color" : "#FFF", "color" : "#000");
