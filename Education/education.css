@@ -63,13 +63,27 @@
   /* CSS for screens that are 800 pixels or less will be put in this section */
   #content{
     position: absolute;
-    width: 90%;
+    width: 100%;
     left: 50%;
     top: calc(100% + 80px);
     transform: translate(-50%, 0px);
     background-color: #FFF;
     z-index: -1
     }
+
+    #content .mini-con{
+    position: relative;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 90%;
+    left: 50%;
+    transform: translate(-50%, 0px);
+    background-color: #E8E8E8;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+
 }
 
 
