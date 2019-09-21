@@ -151,7 +151,7 @@
     <div class="ucc-5">
       <h3>Awards</h3>
 
-      <p>UCC Scholarship Award from Academic Results</p>
+      <p>UCC Academic Scholarship Award for Academic Results</p>
     </div>
 
 

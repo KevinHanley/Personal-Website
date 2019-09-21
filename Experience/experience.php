@@ -68,22 +68,22 @@
 	    </div>
 
 
+	    <div class="bg-test">
+			    <div class="camp-1">
+			      <h1>Camp Sloane YMCA</h1>
 
-	    <div class="camp-1">
-	      <h1>Camp Sloane YMCA</h1>
+			      <h3>2019</h3>
+			    </div>
 
-	      <h3>2019</h3>
+
+				<div class="camp-2">
+			      <h3>Summary</h3>
+
+			      <p><b>Role:</b> Camp Counsellor</p>
+
+			      <p>In the summer of 2019 I travelled to Conneticut in the USA, where I worked as a camp counsellor in Camp Sloane YMCA. Sending kids to summer camps is a big American tradition, and one I was very lucky to be apart of. Here, I became part of a team of young highly-motivated individuals who had come from around the world. Like myself, they had not only come to grow and develop individually, but also to have an unforgettable experience and to make many friends along the way.</p>
+			    </div>
 	    </div>
-
-
-		<div class="camp-2">
-	      <h3>Summary</h3>
-
-	      <p><b>Role:</b> Camp Counsellor</p>
-
-	      <p>In the summer of 2019 I travelled to Conneticut in the USA, where I worked as a camp counsellor in Camp Sloane YMCA. Sending kids to summer camps is a big American tradition, and one I was very lucky to be apart of. Here, I became part of a team of young highly-motivated individuals who had come from around the world. Like myself, they had not only come to grow and develop individually, but also to have an unforgettable experience and to make many friends along the way.</p>
-	    </div>
-
 	    
 	</div>
 
