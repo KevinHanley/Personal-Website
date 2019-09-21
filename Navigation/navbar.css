@@ -14,12 +14,12 @@ body{
 
 header{
     /* background: #FFF; */
-    background-color: transparent;
+    background-color: #FFF;
     position: fixed;
     width: 100%;
     height: 75px;
     z-index: 1;
-    color: #FFF;
+    color: #000;
 }
 
 header::after{
@@ -57,20 +57,20 @@ nav li{
 }
 
 nav a{
-    color: #FFF;
+    color: #000;
     text-decoration: none;
     text-transform: uppercase;
 }
 
 nav a:hover{
-    color: #FFF;
+    color: #000;
 }
 
 nav a::after{
     content: '';
     display: block;
     height: 5px;
-    background-color: #FFF;
+    background-color: #000;
     
     position: absolute;
     top: 50px;

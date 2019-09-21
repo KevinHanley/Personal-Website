@@ -18,20 +18,11 @@
             $(location).attr('href', './home.php');
         }); 
 
-        $(document).on('scroll', function() {
-          if($(window).scrollTop() > 50){
-            alert("hello");
-            $("header").css("background-color" : "#FFF", "color" : "#000");
-
-          }else if($(window).scrollTop() < 50){
-            alert("im back");
-            $("header").css("background-color" : "transparent", "color" : "#FFF");
-          }
-        });
-
-
     });
   </script>
+
+  <!-- Google icons -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
   <!-- Add icon library -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -46,13 +37,17 @@
 	<!-- this php will add the navbar -->
 	<?php include("./Navigation/navigation.html"); ?>
 
-  <div id="landing"></div>
+
+  <div id="landing">
+    <h1>Hi, Welcome!</h1>
+    
+    <i class="material-icons">arrow_downward</i>
+  </div>
 
 
 	<div id="introduction">
 
     <div class="intro-1">
-      <h1>Hi, Welcome!</h1>
 
       <p>Welcome to my personal website. Here you'll get to know a bit about me (hopefully).</p> 
 
