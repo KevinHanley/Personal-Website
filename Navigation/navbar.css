@@ -318,6 +318,7 @@ nav a:hover::after{
     transform: translate(50%,-50%);
     cursor: pointer;
     color: #000;
+    display: inline-block;
   }
 
   #mobile-links{
