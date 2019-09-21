@@ -14,7 +14,7 @@
     width: 65%;
     left: 50%;
     transform: translate(-50%, 0px);
-    background-color: red;
+    background-color: #E8E8E8;
 }
 
 .toss-1{
@@ -40,7 +40,7 @@
     text-align: right;
 }
 
-.toss-2, .cd-2, .camp-2{
+.toss-2, .cd-2{
     border-bottom: 2px solid;
 }
 
