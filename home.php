@@ -17,6 +17,17 @@
         $('.logo').on('click', function(){
             $(location).attr('href', './home.php');
         }); 
+
+        $(document).scroll(function() {
+          if($(window).scrollTop() > 50){
+            $("header").css("background-color" : "#FFF", "color" : "#000");
+
+          }else if($(window).scrollTop() < 50){
+            $("header").css("background-color" : "transparent", "color" : "#FFF");
+          }
+        });
+
+
     });
   </script>
 
