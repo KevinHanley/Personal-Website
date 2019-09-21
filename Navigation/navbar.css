@@ -39,6 +39,10 @@ header::after{
     color: #000;
 }
 
+.container i{
+  display: none;
+}
+
 nav{
     float: right;
 }
@@ -292,6 +296,14 @@ nav a:hover::after{
   nav{
     display: none;
   }
+
+  .container i{
+    display: inline;
+    float: right;
+    cursor: pointer;
+    color: #000;
+  }
+
 }
 
 
