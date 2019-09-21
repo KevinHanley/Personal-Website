@@ -52,9 +52,6 @@
       <p>Welcome to my personal website. Here you'll get to know a bit about me (hopefully).</p> 
 
       <p>I am currently a Business Information Systems (BSc) undergradute student in University College Cork, Ireland.</p>
-
-      <br>
-      <br>
     </div>
 
 
