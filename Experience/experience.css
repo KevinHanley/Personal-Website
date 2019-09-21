@@ -81,7 +81,14 @@
     background-color: #E8E8E8;
     border-radius: 25px;
     padding: 10px;
-}
+    }
+
+    .toss-1, .cd-1, .camp-1{
+    background-position: center;
+    background-size: cover;
+    color: #000;
+    height: 200px;
+    }
 
 }
 
