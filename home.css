@@ -13,6 +13,9 @@
     width: 65%;
     left: 50%;
     transform: translate(-50%, 0px);
+    background-color: #E8E8E8;
+    border-radius: 25px;
+    padding: 10px;
 }
 
 .intro-1{

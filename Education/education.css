@@ -7,14 +7,27 @@
     z-index: -1;
 }
 
-#content div{
+#content .mini-con{
     position: relative;
     margin-top: 35px;
     margin-bottom: 35px;
     width: 65%;
     left: 50%;
     transform: translate(-50%, 0px);
+    background-color: #E8E8E8;
+    border-radius: 25px;
+    padding: 10px;
 }
+
+.mini-con div{
+    position: relative;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 85%;
+    left: 50%;
+    transform: translate(-50%, 0px);
+}
+
 
 /* These divs have images so require extra styling */
 .colmans-1{
@@ -34,8 +47,4 @@
 .colmans-1 h1, .colmans-1 h3, .ucc-1 h1, .ucc-1 h3{
     position: relative;
     text-align: right;
-}
-
-.colmans-4{
-    border-bottom: 2px solid;
 }
