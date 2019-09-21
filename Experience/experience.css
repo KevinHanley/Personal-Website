@@ -7,7 +7,7 @@
     z-index: -1;
 }
 
-#content div{
+#content .mini-con{
 	position: relative;
     margin-top: 35px;
     margin-bottom: 35px;
@@ -15,6 +15,17 @@
     left: 50%;
     transform: translate(-50%, 0px);
     background-color: #E8E8E8;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.mini-con div{
+    position: relative;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 85%;
+    left: 50%;
+    transform: translate(-50%, 0px);
 }
 
 .toss-1{
@@ -39,10 +50,5 @@
     position: relative;
     text-align: right;
 }
-
-.toss-2, .cd-2{
-    border-bottom: 2px solid;
-}
-
 
 
