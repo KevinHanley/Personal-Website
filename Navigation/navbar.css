@@ -99,11 +99,11 @@ nav a:hover::after{
 
 
 #personal-connections{
-    position: absolute;
+    position: sticky;
     width: 300px;
     height: calc(100% - 80px);
     left: 0px;
-    top: calc(100% + 80px);
+    top: calc(100% + 75px);
     text-align: center;
     background-color: #FFF;
     z-index: -1;
@@ -246,6 +246,44 @@ nav a:hover::after{
   background: #e46880;
 }
 
+
+
+
+@keyframes bob{
+    0%   {top: 90%; left: 50%;}
+    50%  {top: 87%; left: 50%;}
+    100% {top: 90%; left: 50%;}
+}
+
+#landing{
+    position: absolute;
+    width: 100%;
+    height: calc(100% - 100px);
+    top: 80px;
+    background-position: center;
+    background-size: cover;
+    z-index: -1;
+}
+
+#landing h1{
+    position: absolute;
+    color: #FFF;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+}
+
+#landing i{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+    animation-name: bob;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
 
 
 

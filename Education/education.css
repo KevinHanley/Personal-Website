@@ -1,8 +1,18 @@
+#landing{
+    background-image: url(/Images/pencils.jpg);
+}
+
+#landing i, h1{
+    color: #FFF;
+}
+
+
+
 #content{
     position: absolute;
     width: calc(100% - 300px);
     left: 300px;
-    top: 80px;
+    top: 100%;
     background-color: #FFF;
     z-index: -1;
 }
