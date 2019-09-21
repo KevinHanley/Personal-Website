@@ -33,6 +33,9 @@
 	<!-- this php will add the navbar -->
 	<?php include("./Navigation/navigation.html"); ?>
 
+  <div id="landing"></div>
+
+
 	<div id="introduction">
 
     <div class="intro-1">
