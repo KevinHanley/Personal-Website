@@ -18,6 +18,10 @@
             $(location).attr('href', './home.php');
         }); 
 
+        $('i').on('click', function(){
+            $('#mobile-links').toggle();
+        }); 
+
     });
   </script>
 
