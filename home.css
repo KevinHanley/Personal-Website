@@ -33,3 +33,22 @@
 #landing i, #landing h1{
     color: #FFF;
 }
+
+@media screen and (max-width:800px) {
+  /* CSS for screens that are 320 pixels or less will be put in this section */
+  #introduction{
+    position: absolute;
+    width: 80%;
+    left: 50%;
+    top: calc(100% + 80px);
+    transform: translate(-50%, 0px);
+    background-color: #FFF;
+    z-index: -1
+    }
+}
+
+
+
+
+
+
