@@ -317,6 +317,8 @@ nav a:hover::after{
     width: 100%;
     transition: all ease-in-out 0.25s; 
     background-color: #FFF;
+    text-align: center;
+    cursor: pointer;
   }
 
   #mobile-links a{
@@ -324,6 +326,8 @@ nav a:hover::after{
     color: #000;
     text-decoration: none;
     text-transform: uppercase;
+    margin-top: 10px;
+
   }
 
 }
