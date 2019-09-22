@@ -53,10 +53,17 @@
     height: 400px;
 }
 
-.toss-1 h1, .toss-1 h3, .cd-1 h1, .cd-1 h3, .camp-1 h1, .camp-1 h3{
+.toss-1 h1, .toss-1 h3, .camp-1 h1, .camp-1 h3{
+    position: relative;
+    text-align: right;
+    color: #FFF;
+}
+
+.cd-1 h1, .cd-1 h3{
     position: relative;
     text-align: right;
 }
+
 
 
 @media screen and (max-width:800px) {

@@ -57,6 +57,7 @@
 .colmans-1 h1, .colmans-1 h3, .ucc-1 h1, .ucc-1 h3{
     position: relative;
     text-align: right;
+    color: #FFF;
 }
 
 @media screen and (max-width:800px) {
