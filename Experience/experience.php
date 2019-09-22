@@ -10,18 +10,7 @@
 
 	<!-- JQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  
-    <script>
-      $(document).ready(function(){          
-          	$('.logo').on('click', function(){
-            	$(location).attr('href', '/home.php');
-          	}); 
-
-          	$('i').on('click', function(){
-            	$('#mobile-links').toggle();
-        	}); 
-      });
-    </script>
+    <script type="text/javascript" src="../effects.js"></script>
 
     <!-- Google icons -->
  	 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
