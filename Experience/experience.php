@@ -5,6 +5,7 @@
 
 	<link rel="stylesheet" href="../Navigation/navbar.css" type="text/css"/>
     <link rel="stylesheet" href="./experience.css" type="text/css"/>
+    <link rel="stylesheet" href="../Footer/footer.css" type="text/css"/>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -91,6 +92,9 @@
 		      <p>In the summer of 2019 I travelled to Conneticut in the USA, where I worked as a camp counsellor in Camp Sloane YMCA. Sending kids to summer camps is a big American tradition, and one I was very lucky to be apart of. Here, I became part of a team of young highly-motivated individuals who had come from around the world. Like myself, they had not only come to grow and develop individually, but also to have an unforgettable experience and to make many friends along the way.</p>
 		    </div>
 	    </div>
+
+	    <!-- this php will add the footer -->
+    	<?php include("../Footer/footer.html"); ?>
 	    
 	</div>
 

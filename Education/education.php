@@ -5,6 +5,7 @@
 
 	<link rel="stylesheet" href="../Navigation/navbar.css" type="text/css"/>
   <link rel="stylesheet" href="./education.css" type="text/css"/>
+  <link rel="stylesheet" href="../Footer/footer.css" type="text/css"/>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -158,6 +159,9 @@
         <p>UCC Academic Scholarship Award for Academic Results</p>
       </div>
     </div>
+
+    <!-- this php will add the footer -->
+    <?php include("../Footer/footer.html"); ?>
 
   </div> <!-- End of content class -->
 
