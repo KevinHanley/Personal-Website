@@ -6,7 +6,7 @@ $(document).ready(function(){
   }); 
 
   /* clicking menu icon opens menu and toggles icon */
-  $('i').on('click', function(){
+  $('#ham-menu').on('click', function(){
     $('#mobile-links').toggle();
 
     if($(this).text() == 'menu'){

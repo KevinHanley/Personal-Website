@@ -15,6 +15,13 @@
     background-color: #FFF;
   }
 
+  #foot-icons{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+
   #footer a{
     display: inline;
     text-decoration: none;
@@ -22,5 +29,6 @@
     margin-right: 15px;
     margin-left: 15px;
     cursor: pointer;
+    font-size: 32px;
   }
 }
