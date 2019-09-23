@@ -2,7 +2,7 @@ $(document).ready(function(){
 
   /* clicking name returns to homepage */       
   $('.logo').on('click', function(){
-    $(location).attr('href', './home.php');
+    $(location).attr('href', '/home.php');
   }); 
 
   /* clicking menu icon opens menu and toggles icon */
