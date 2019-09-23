@@ -6,6 +6,7 @@
   <!-- style sheets -->
 	<link rel="stylesheet" href="./Navigation/navbar.css" type="text/css"/>
   <link rel="stylesheet" href="./home.css" type="text/css"/>
+  <link rel="stylesheet" href="./Footer/footer.css" type="text/css"/>
 
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -83,6 +84,9 @@
         drives the high standard of my work.</li>
       </ul>
     </div>
+
+    <!-- this php will add the footer -->
+    <?php include("./Footer/footer.html"); ?>
      
   </div> <!-- end of introduction -->
 
