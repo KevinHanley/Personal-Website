@@ -52,6 +52,7 @@
     background-size: cover;
     color: #000;
     height: 400px;
+    box-shadow: 0 0 8px 8px white inset;
 }
 
 .colmans-1 h1, .colmans-1 h3, .ucc-1 h1, .ucc-1 h3{
